@@ -1,0 +1,24 @@
+{
+  "type": "online",
+  "number": "66",
+  "month": "Abril 2025",
+  "date": "24",
+  "speakers": [
+    {
+      "name": "Gianfranco Yosida",
+      "linkedIn": "https://www.linkedin.com/in/gyosida",
+      "talk": "Some title of talk",
+      "other": "@user_of_twitter"
+    },
+    {
+      "name": "Another Speaker",
+      "linkedIn": "https://linkedin.com/demo",
+      "talk": "Another Talk Title",
+      "other": "Website link"
+    }
+  ],
+  "data": {
+    "yt": "https://www.youtube.com/watch?v=z1eeQnhR_Fg",
+    "album": "https://photos.app.goo.gl/PkHhDQ1cfCawWqub6"
+  }
+}
